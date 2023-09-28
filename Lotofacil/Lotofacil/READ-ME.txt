@@ -1,0 +1,16 @@
+# Projeto Lotofacil
+
+Codigo em Java para simular três apostas diferentes.
+
+## Funcionamento
+
+Quando executar a aplicação, irá abrir um menu, com as opções, após isso, basta escolher a opção desejada e realizar a aposta.
+
+### Pre Requisitos
+
+E necessario a instalação do JDK, versão igual ou superior a 17.0
+
+## Versão
+
+--- Java JDK 17.0
+
